@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- General strings -->
+    <string name="app_name">PBL Hub</string>
+    
+    <string name="title_section_sessions">Sessions</string>
+    <string name="title_section_students">Students</string>
+    <string name="title_section_problems">Problems</string>
+    <string name="title_section_groups">Groups</string>
+    <string name="title_section_classes">Classes</string>
+    
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About</string>
+    <string name="about_alert">About PBL Hub\n\nPBL Hub was developed by João Paulo Just Peixoto (jpjust) to help Professors at State University of Feira de Santana to easily store information about their PBL sessions using their smartphones.\n\nIf you want to contact me, mail just1982@gmail.com</string>
+    
+    <string name="ok">OK</string>
+    <string name="close">Close</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    
+    <!-- Classes fragment -->
+    <string name="classes_list">List of classes</string>
+    <string name="classes_list_desc">Use this list to manage your PBL classes. To edit or delete a class, just tap on it.</string>
+    <string name="classes_new">Add new class</string>
+    <string name="classes_add_class_desc">Type the name of the PBL Class you want to add.</string>
+    <string name="class_added">Class added.</string>
+    <string name="class_updated">Class updated.</string>
+    <string name="class_deleted">Class deleted.</string>
+    <string name="class_delete_alert">If you delete this class, all its groups, sessions and students will also be deleted. Continue?</string>
+    
+    <!-- Groups fragment -->
+    <string name="groups_list">List of groups</string>
+    <string name="groups_list_desc">Use this list to manage your PBL groups. To edit or delete a group, just tap on it.</string>
+    <string name="groups_new">Add new group</string>
+    <string name="groups_add_group_desc">Type the name of the PBL Group you want to add.</string>
+    <string name="group_added">Group added.</string>
+    <string name="group_updated">Group updated.</string>
+    <string name="group_deleted">Group deleted.</string>
+    <string name="groups_no_existing_class">There are no classes added. You need to add a class before adding a group.</string>
+    <string name="group_delete_alert">If you delete this group, all its sessions and students will also be deleted. Continue?</string>
+
+    <!-- Problems fragment -->
+    <string name="problems_list">List of problems</string>
+    <string name="problems_list_desc">Use this list to manage the groups\' problems. To edit or delete a problem, just tap on it.</string>
+    <string name="problems_new">Add new problem</string>
+    <string name="problems_add_problem_title_desc">Type the title of the problem you want to add.</string>
+    <string name="problems_add_problem_desc_desc">Type the description of this problem.</string>
+    <string name="problem_added">Problem added.</string>
+    <string name="problem_updated">Problem updated.</string>
+    <string name="problem_deleted">Problem deleted.</string>
+    <string name="problems_no_existing_group">There are no groups added. You need to add a group before adding a problem.</string>
+    <string name="problem_delete_alert">If you delete this problem, all its sessions will also be deleted. Continue?</string>
+
+    <!-- Students fragment -->
+    <string name="students_list">List of students</string>
+    <string name="students_list_desc">Use this list to manage your PBL students. To edit or delete a student, just tap on it.</string>
+    <string name="students_groups_list">Choose a group from the list</string>
+    <string name="students_new">Add new student</string>
+    <string name="students_add_student_number">Type the ID number of this student.</string>
+    <string name="students_add_student_desc">Type the name of the student you want to add.</string>
+    <string name="student_added">Student added.</string>
+    <string name="student_updated">Student updated.</string>
+    <string name="student_deleted">Student deleted.</string>
+    <string name="students_no_existing_group">There are no groups added. You need to add a group before adding a student.</string>
+    <string name="student_delete_alert">If you delete this student, all its sessions performance grades will also be deleted. Continue?</string>
+
+    <!--  Sessions fragment -->
+    <string name="sessions_list">List of sessions</string>
+    <string name="sessions_problems_list">Choose a problem from the list</string>
+    <string name="sessions_groups_list">Choose a group from the list</string>
+    <string name="sessions_add_session_desc">Insert the date of this session</string>
+    <string name="sessions_add_session_goals">Type the goals defined after this session</string>
+    <string name="sessions_list_desc">Use this list to manage your PBL sessions. To edit or delete a session, just tap on it.</string>
+    <string name="sessions_new">Add new session</string>
+    <string name="session_added">Session added.</string>
+    <string name="session_updated">Session updated.</string>
+    <string name="session_deleted">Session deleted.</string>
+    <string name="session_performance">Performance</string>
+    <string name="session_not_saved_yet">You need to save this session before opening its performance screen.</string>
+    <string name="sessions_students_list">Students in this session</string>
+    <string name="session_accomplishment">Accomplishment</string>
+    <string name="session_participation">Participation</string>
+    <string name="session_behavior">Behavior</string>
+    <string name="session_role">Role</string>
+    <string name="sessions_no_existing_problem">There are no problems added. You need to add a problem before adding a session.</string>
+    <string name="session_delete_alert">If you delete this session, all its performance grades will also be deleted. Continue?</string>
+    
+    <!--  Performance fragment -->
+    <string name="performance_choose_student">Choose a student</string>
+</resources>

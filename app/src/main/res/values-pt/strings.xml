@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- General strings -->
+    <string name="app_name">PBL Hub</string>
+    
+    <string name="title_section_sessions">Sessões</string>
+    <string name="title_section_students">Alunos</string>
+    <string name="title_section_problems">Problemas</string>
+    <string name="title_section_groups">Grupos</string>
+    <string name="title_section_classes">Disciplinas</string>
+    
+    <string name="navigation_drawer_open">Abrir quadro de navegação</string>
+    <string name="navigation_drawer_close">Fechar quadro de navegação</string>
+    <string name="action_settings">Configuração</string>
+    <string name="action_about">Sobre</string>
+    <string name="about_alert">Sobre PBL Hub\n\nPBL Hub foi desenvolvido por João Paulo Just Peixoto (jpjust) para ajudar os professores da Universidade Estadual de Feira de Santana a facilmente armazenar informações das suas sessões PBL em seus smartphones.\n\nSe deseja me contactar, envie um e-mail para just1982@gmail.com</string>
+    
+    <string name="ok">OK</string>
+    <string name="close">Fechar</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="cancel">Cancelar</string>
+    <string name="save">Salvar</string>
+    <string name="delete">Excluir</string>
+    
+    <!-- Classes fragment -->
+    <string name="classes_list">Lista de disciplinas</string>
+    <string name="classes_list_desc">Use esta lista para gerenciar suas disciplinas de PBL. Para editar ou excluir uma disciplina, simplesmente toque nela.</string>
+    <string name="classes_new">Adicionar nova disciplina</string>
+    <string name="classes_add_class_desc">Insira o nome da disciplina de PBL que deseja adicionar.</string>
+    <string name="class_added">Disciplina adicionada.</string>
+    <string name="class_updated">Disciplina atualizada.</string>
+    <string name="class_deleted">Disciplina excluída.</string>
+    <string name="class_delete_alert">Se você excluir esta disciplina, todos os seus grupos, sessões e alunos também serão excluídos. Continuar?</string>
+    
+    <!-- Groups fragment -->
+    <string name="groups_list">Lista de grupos</string>
+    <string name="groups_list_desc">Use esta lista para gerenciar seus grupos de PBL. Para editar ou excluir um grupo, simplesmente toque nele.</string>
+    <string name="groups_new">Adicionar novo grupo</string>
+    <string name="groups_add_group_desc">Insira o nome do grupo PBL que deseja adicionar.</string>
+    <string name="group_added">Grupo adicionado.</string>
+    <string name="group_updated">Grupo atualizado.</string>
+    <string name="group_deleted">Grupo excluído.</string>
+    <string name="groups_no_existing_class">Não existem disciplinas cadastradas. Você precisa cadastrar uma disciplina antes de adicionar um grupo.</string>
+    <string name="group_delete_alert">Se você excluir este grupo, todas as suas sessões e alunos também serão excluídos. Continuar?</string>
+
+    <!-- Problems fragment -->
+    <string name="problems_list">Lista de problemas</string>
+    <string name="problems_list_desc">Use esta lista para gerenciar os problemas de cada grupo. Para editar ou excluir um problema, simplesmente toque nele.</string>
+    <string name="problems_new">Adicionar novo problema</string>
+    <string name="problems_add_problem_title_desc">Insira o título do problema que deseja adicionar.</string>
+    <string name="problems_add_problem_desc_desc">Insira uma breve descrição para este problema.</string>
+    <string name="problem_added">Problema adicionado.</string>
+    <string name="problem_updated">Problema atualizado.</string>
+    <string name="problem_deleted">Problema excluído.</string>
+    <string name="problems_no_existing_group">Não existem grupos cadastrados. Você precisa cadastrar um grupo antes de adicionar um problema.</string>
+    <string name="problem_delete_alert">Se você excluir este problema, todas as suas sessões também serão excluídas. Continuar?</string>
+
+    <!-- Students fragment -->
+    <string name="students_list">Lista de alunos</string>
+    <string name="students_list_desc">Use esta lista para gerenciar os alunos do PBL. Para editar ou excluir um aluno, simplesmente toque nele.</string>
+    <string name="students_groups_list">Escolha um grupo da lista</string>
+    <string name="students_new">Adicionar um aluno</string>
+    <string name="students_add_student_number">Insira a matrícula deste aluno.</string>
+    <string name="students_add_student_desc">Insira o nome do aluno que deseja adicionar.</string>
+    <string name="student_added">Aluno adicionado.</string>
+    <string name="student_updated">Aluno atualizado.</string>
+    <string name="student_deleted">Aluno excluído.</string>
+    <string name="students_no_existing_group">Não existem grupo cadastrados. Você precisa cadastrar um grupo antes de adicionar um aluno.</string>
+    <string name="student_delete_alert">Se você excluir este aluno, todas as suas notas de desempenho também serão excluídas. Continuar?</string>
+
+    <!--  Sessions fragment -->
+    <string name="sessions_list">Lista de sessões</string>
+    <string name="sessions_problems_list">Escolha um problema da lista</string>
+    <string name="sessions_groups_list">Escolha um grupo da lista</string>
+    <string name="sessions_add_session_desc">Insira a data desta sessão</string>
+    <string name="sessions_add_session_goals">Insira as metas definidas nesta sessão</string>
+    <string name="sessions_list_desc">Use esta lista para gerenciar suas sessões PBL. Para editar ou excluir uma sessão, simplesmente toque nela.</string>
+    <string name="sessions_new">Adicionar nova sessão</string>
+    <string name="session_added">Sessão adicionada.</string>
+    <string name="session_updated">Sessão atualizada.</string>
+    <string name="session_deleted">Sessão excluída.</string>
+    <string name="session_performance">Notas de desempenho</string>
+    <string name="session_not_saved_yet">Você precisa salvar essa sessão antes de abrir a tela de desempenho.</string>
+    <string name="sessions_students_list">Alunos nesta sessão</string>
+    <string name="session_accomplishment">Seguimento</string>
+    <string name="session_participation">Participação</string>
+    <string name="session_behavior">Comportamento</string>
+    <string name="session_role">Papel</string>
+    <string name="sessions_no_existing_problem">Não existem problemas cadastrados. Você precisa cadastrar um problema antes de adicionar uma sessão.</string>
+    <string name="session_delete_alert">Se você excluir esta sessão, todas as suas notas de desempenho também serão excluídas. Continuar?</string>
+    
+    <!--  Performance fragment -->
+    <string name="performance_choose_student">Escolha um aluno</string>
+</resources>
