@@ -188,12 +188,12 @@
         "source": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable-mdpi/abc_ic_menu_moreoverflow_normal_holo_dark.png"
     },
     {
-        "merged": "/home/just/StudioProjects/PBLHub/app/build/intermediates/res/merged/debug/drawable-mdpi/abc_ab_transparent_dark_holo.9.png",
-        "source": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable-mdpi/abc_ab_transparent_dark_holo.9.png"
-    },
-    {
         "merged": "/home/just/StudioProjects/PBLHub/app/build/intermediates/res/merged/debug/drawable-mdpi/abc_tab_selected_pressed_holo.9.png",
         "source": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable-mdpi/abc_tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/home/just/StudioProjects/PBLHub/app/build/intermediates/res/merged/debug/drawable-mdpi/abc_ab_transparent_dark_holo.9.png",
+        "source": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable-mdpi/abc_ab_transparent_dark_holo.9.png"
     },
     {
         "merged": "/home/just/StudioProjects/PBLHub/app/build/intermediates/res/merged/debug/drawable-mdpi/abc_ic_go_search_api_holo_light.png",
