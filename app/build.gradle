@@ -5,8 +5,8 @@ android {
     buildToolsVersion "24.0.2"
     defaultConfig {
         applicationId "br.pro.just.pblhub"
-        minSdkVersion 8
-        targetSdkVersion 23
+        minSdkVersion 21
+        targetSdkVersion 25
     }
     buildTypes {
         release {

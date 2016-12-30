@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/just/StudioProjects/PBLHub/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "outputFile": "/home/dados/StudioProjects/pblhub/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 105
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 167
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 219
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 277
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 330
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 389
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 445
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 505
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 564
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 620
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 683
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 747
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 806
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -258,7 +258,7 @@
                     "endOffset": 871
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -277,7 +277,7 @@
                     "endOffset": 933
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -296,7 +296,7 @@
                     "endOffset": 994
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -315,7 +315,7 @@
                     "endOffset": 1054
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -334,7 +334,7 @@
                     "endOffset": 1115
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -353,7 +353,7 @@
                     "endOffset": 1177
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -372,7 +372,7 @@
                     "endOffset": 1242
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -391,7 +391,7 @@
                     "endOffset": 1308
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -410,7 +410,7 @@
                     "endOffset": 1370
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -429,7 +429,7 @@
                     "endOffset": 1434
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -448,7 +448,7 @@
                     "endOffset": 1488
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -467,7 +467,7 @@
                     "endOffset": 1554
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -486,7 +486,7 @@
                     "endOffset": 1618
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
@@ -505,7 +505,7 @@
                     "endOffset": 1681
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -524,7 +524,7 @@
                     "endOffset": 1740
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
@@ -543,7 +543,7 @@
                     "endOffset": 1793
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -562,7 +562,7 @@
                     "endOffset": 1849
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 4,
@@ -581,7 +581,7 @@
                     "endOffset": 1903
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -600,7 +600,7 @@
                     "endOffset": 1963
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 4,
@@ -619,7 +619,7 @@
                     "endOffset": 2008
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -638,7 +638,7 @@
                     "endOffset": 2064
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 4,
@@ -657,7 +657,7 @@
                     "endOffset": 2113
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -676,7 +676,7 @@
                     "endOffset": 2172
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 41,
                         "startColumn": 4,
@@ -695,7 +695,7 @@
                     "endOffset": 2234
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -714,7 +714,7 @@
                     "endOffset": 2301
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 4,
@@ -733,7 +733,7 @@
                     "endOffset": 2368
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 4,
@@ -752,7 +752,7 @@
                     "endOffset": 2435
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 45,
                         "startColumn": 4,
@@ -771,7 +771,7 @@
                     "endOffset": 2503
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 46,
                         "startColumn": 4,
@@ -790,7 +790,7 @@
                     "endOffset": 2566
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 47,
                         "startColumn": 4,
@@ -809,7 +809,7 @@
                     "endOffset": 2631
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 48,
                         "startColumn": 4,
@@ -828,7 +828,7 @@
                     "endOffset": 2700
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 49,
                         "startColumn": 4,
@@ -847,7 +847,7 @@
                     "endOffset": 2758
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 50,
                         "startColumn": 4,
@@ -866,7 +866,7 @@
                     "endOffset": 2816
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 51,
                         "startColumn": 4,
@@ -885,7 +885,7 @@
                     "endOffset": 2884
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 4,
@@ -904,7 +904,7 @@
                     "endOffset": 2939
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 53,
                         "startColumn": 4,
@@ -923,7 +923,7 @@
                     "endOffset": 2998
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
@@ -942,7 +942,7 @@
                     "endOffset": 3056
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 55,
                         "startColumn": 4,
@@ -961,7 +961,7 @@
                     "endOffset": 3119
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
@@ -980,7 +980,7 @@
                     "endOffset": 3177
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 57,
                         "startColumn": 4,
@@ -999,7 +999,7 @@
                     "endOffset": 3240
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 58,
                         "startColumn": 4,
@@ -1018,7 +1018,7 @@
                     "endOffset": 3303
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 59,
                         "startColumn": 4,
@@ -1037,7 +1037,7 @@
                     "endOffset": 3354
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 60,
                         "startColumn": 4,
@@ -1056,7 +1056,7 @@
                     "endOffset": 3421
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 61,
                         "startColumn": 4,
@@ -1075,7 +1075,7 @@
                     "endOffset": 3482
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 62,
                         "startColumn": 4,
@@ -1094,7 +1094,7 @@
                     "endOffset": 3548
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 63,
                         "startColumn": 4,
@@ -1113,7 +1113,7 @@
                     "endOffset": 3621
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 64,
                         "startColumn": 4,
@@ -1132,7 +1132,7 @@
                     "endOffset": 3691
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 65,
                         "startColumn": 4,
@@ -1151,7 +1151,7 @@
                     "endOffset": 3758
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 66,
                         "startColumn": 4,
@@ -1170,7 +1170,7 @@
                     "endOffset": 3821
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 67,
                         "startColumn": 4,
@@ -1189,7 +1189,7 @@
                     "endOffset": 3862
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 68,
                         "startColumn": 4,
@@ -1208,7 +1208,7 @@
                     "endOffset": 3925
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 72,
                         "startColumn": 4,
@@ -1227,7 +1227,7 @@
                     "endOffset": 4001
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 73,
                         "startColumn": 4,
@@ -1246,7 +1246,7 @@
                     "endOffset": 4063
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 77,
                         "startColumn": 4,
@@ -1265,7 +1265,7 @@
                     "endOffset": 4136
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 78,
                         "startColumn": 4,
@@ -1284,7 +1284,7 @@
                     "endOffset": 4214
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 82,
                         "startColumn": 4,
@@ -1303,7 +1303,7 @@
                     "endOffset": 4274
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 83,
                         "startColumn": 4,
@@ -1322,7 +1322,7 @@
                     "endOffset": 4335
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 87,
                         "startColumn": 4,
@@ -1341,7 +1341,7 @@
                     "endOffset": 4410
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 88,
                         "startColumn": 4,
@@ -1360,7 +1360,7 @@
                     "endOffset": 4486
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 89,
                         "startColumn": 4,
@@ -1379,7 +1379,7 @@
                     "endOffset": 10556
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 507,
                         "startColumn": 4,
@@ -1398,7 +1398,7 @@
                     "endOffset": 10624
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 508,
                         "startColumn": 4,
@@ -1417,7 +1417,7 @@
                     "endOffset": 10688
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 509,
                         "startColumn": 4,
@@ -1436,7 +1436,7 @@
                     "endOffset": 10753
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 510,
                         "startColumn": 4,
@@ -1455,7 +1455,7 @@
                     "endOffset": 10822
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 511,
                         "startColumn": 4,
@@ -1474,7 +1474,7 @@
                     "endOffset": 10891
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 512,
                         "startColumn": 4,
@@ -1493,7 +1493,7 @@
                     "endOffset": 10956
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 513,
                         "startColumn": 4,
@@ -1512,7 +1512,7 @@
                     "endOffset": 11022
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 514,
                         "startColumn": 4,
@@ -1531,7 +1531,7 @@
                     "endOffset": 11084
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 515,
                         "startColumn": 4,
@@ -1550,7 +1550,7 @@
                     "endOffset": 11144
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 516,
                         "startColumn": 4,
@@ -1569,7 +1569,7 @@
                     "endOffset": 11203
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 520,
                         "startColumn": 4,
@@ -1588,7 +1588,7 @@
                     "endOffset": 11263
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 524,
                         "startColumn": 4,
@@ -1607,7 +1607,7 @@
                     "endOffset": 11329
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 525,
                         "startColumn": 4,
@@ -1626,7 +1626,7 @@
                     "endOffset": 11396
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 526,
                         "startColumn": 4,
@@ -1645,7 +1645,7 @@
                     "endOffset": 11454
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 527,
                         "startColumn": 4,
@@ -1664,7 +1664,7 @@
                     "endOffset": 11519
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 528,
                         "startColumn": 4,
@@ -1683,7 +1683,7 @@
                     "endOffset": 11583
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 529,
                         "startColumn": 4,
@@ -1702,7 +1702,7 @@
                     "endOffset": 11641
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/dimens.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -1721,7 +1721,7 @@
                     "endOffset": 11697
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/dimens.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1740,7 +1740,7 @@
                     "endOffset": 11764
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 531,
                         "startColumn": 4,
@@ -1759,7 +1759,7 @@
                     "endOffset": 11832
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 532,
                         "startColumn": 4,
@@ -1778,7 +1778,7 @@
                     "endOffset": 11900
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 533,
                         "startColumn": 4,
@@ -1797,7 +1797,7 @@
                     "endOffset": 11968
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 534,
                         "startColumn": 4,
@@ -1816,7 +1816,7 @@
                     "endOffset": 12024
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/dimens.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -1835,7 +1835,7 @@
                     "endOffset": 12081
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 538,
                         "startColumn": 4,
@@ -1854,7 +1854,7 @@
                     "endOffset": 12130
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 539,
                         "startColumn": 4,
@@ -1873,7 +1873,7 @@
                     "endOffset": 12181
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 540,
                         "startColumn": 4,
@@ -1892,7 +1892,7 @@
                     "endOffset": 12215
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 541,
                         "startColumn": 4,
@@ -1911,7 +1911,7 @@
                     "endOffset": 12262
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 542,
                         "startColumn": 4,
@@ -1930,7 +1930,7 @@
                     "endOffset": 12311
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 543,
                         "startColumn": 4,
@@ -1949,7 +1949,7 @@
                     "endOffset": 12366
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 547,
                         "startColumn": 4,
@@ -1968,7 +1968,7 @@
                     "endOffset": 12440
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 551,
                         "startColumn": 4,
@@ -1987,7 +1987,7 @@
                     "endOffset": 12510
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 552,
                         "startColumn": 4,
@@ -2006,7 +2006,7 @@
                     "endOffset": 12588
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 553,
                         "startColumn": 4,
@@ -2025,7 +2025,7 @@
                     "endOffset": 12642
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 554,
                         "startColumn": 4,
@@ -2044,7 +2044,7 @@
                     "endOffset": 12712
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 555,
                         "startColumn": 4,
@@ -2063,7 +2063,7 @@
                     "endOffset": 12797
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 556,
                         "startColumn": 4,
@@ -2082,7 +2082,7 @@
                     "endOffset": 12870
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 557,
                         "startColumn": 4,
@@ -2101,7 +2101,7 @@
                     "endOffset": 12944
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 558,
                         "startColumn": 4,
@@ -2120,7 +2120,7 @@
                     "endOffset": 13013
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 559,
                         "startColumn": 4,
@@ -2139,7 +2139,7 @@
                     "endOffset": 13088
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 560,
                         "startColumn": 4,
@@ -2158,7 +2158,7 @@
                     "endOffset": 13162
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 561,
                         "startColumn": 4,
@@ -2177,7 +2177,7 @@
                     "endOffset": 13236
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 562,
                         "startColumn": 4,
@@ -2196,7 +2196,7 @@
                     "endOffset": 13325
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 563,
                         "startColumn": 4,
@@ -2215,7 +2215,7 @@
                     "endOffset": 13631
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -2234,7 +2234,7 @@
                     "endOffset": 13678
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -2253,7 +2253,7 @@
                     "endOffset": 13731
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -2272,7 +2272,7 @@
                     "endOffset": 13776
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -2291,7 +2291,7 @@
                     "endOffset": 13818
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -2310,7 +2310,7 @@
                     "endOffset": 13871
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
@@ -2329,7 +2329,7 @@
                     "endOffset": 14014
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -2348,7 +2348,7 @@
                     "endOffset": 14071
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
@@ -2367,7 +2367,7 @@
                     "endOffset": 14128
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -2386,7 +2386,7 @@
                     "endOffset": 14227
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -2405,7 +2405,7 @@
                     "endOffset": 14284
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -2424,7 +2424,7 @@
                     "endOffset": 14415
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -2443,7 +2443,7 @@
                     "endOffset": 14469
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -2462,7 +2462,7 @@
                     "endOffset": 14509
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -2481,7 +2481,7 @@
                     "endOffset": 14551
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -2500,7 +2500,7 @@
                     "endOffset": 14604
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 41,
                         "startColumn": 4,
@@ -2519,7 +2519,7 @@
                     "endOffset": 14739
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 45,
                         "startColumn": 4,
@@ -2538,7 +2538,7 @@
                     "endOffset": 14796
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 4,
@@ -2557,7 +2557,7 @@
                     "endOffset": 14853
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -2576,7 +2576,7 @@
                     "endOffset": 14951
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -2595,7 +2595,7 @@
                     "endOffset": 15006
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 4,
@@ -2614,7 +2614,7 @@
                     "endOffset": 15135
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -2633,7 +2633,7 @@
                     "endOffset": 15188
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 4,
@@ -2652,7 +2652,7 @@
                     "endOffset": 15316
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 4,
@@ -2671,7 +2671,7 @@
                     "endOffset": 15392
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -2690,7 +2690,7 @@
                     "endOffset": 15466
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -2709,7 +2709,7 @@
                     "endOffset": 15500
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -2728,7 +2728,7 @@
                     "endOffset": 15534
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -2747,7 +2747,7 @@
                     "endOffset": 15606
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 94,
                         "startColumn": 4,
@@ -2766,7 +2766,7 @@
                     "endOffset": 15663
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 53,
                         "startColumn": 4,
@@ -2785,7 +2785,7 @@
                     "endOffset": 15789
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 57,
                         "startColumn": 4,
@@ -2804,7 +2804,7 @@
                     "endOffset": 15850
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 55,
                         "startColumn": 4,
@@ -2823,7 +2823,7 @@
                     "endOffset": 15911
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
@@ -2842,7 +2842,7 @@
                     "endOffset": 16008
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 4,
@@ -2861,7 +2861,7 @@
                     "endOffset": 16115
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 51,
                         "startColumn": 4,
@@ -2880,7 +2880,7 @@
                     "endOffset": 16174
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 48,
                         "startColumn": 4,
@@ -2899,7 +2899,7 @@
                     "endOffset": 16313
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 49,
                         "startColumn": 4,
@@ -2918,7 +2918,7 @@
                     "endOffset": 16370
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 50,
                         "startColumn": 4,
@@ -2937,7 +2937,7 @@
                     "endOffset": 16501
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
@@ -2956,7 +2956,7 @@
                     "endOffset": 16539
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -2975,7 +2975,7 @@
                     "endOffset": 16605
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 86,
                         "startColumn": 4,
@@ -2994,7 +2994,7 @@
                     "endOffset": 16662
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 80,
                         "startColumn": 4,
@@ -3013,7 +3013,7 @@
                     "endOffset": 16716
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 88,
                         "startColumn": 4,
@@ -3032,7 +3032,7 @@
                     "endOffset": 16852
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 91,
                         "startColumn": 4,
@@ -3051,7 +3051,7 @@
                     "endOffset": 16913
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 82,
                         "startColumn": 4,
@@ -3070,7 +3070,7 @@
                     "endOffset": 17032
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 84,
                         "startColumn": 4,
@@ -3089,7 +3089,7 @@
                     "endOffset": 17096
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 87,
                         "startColumn": 4,
@@ -3108,7 +3108,7 @@
                     "endOffset": 17156
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 83,
                         "startColumn": 4,
@@ -3127,7 +3127,7 @@
                     "endOffset": 17202
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 89,
                         "startColumn": 4,
@@ -3146,7 +3146,7 @@
                     "endOffset": 17263
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 81,
                         "startColumn": 4,
@@ -3165,7 +3165,7 @@
                     "endOffset": 17349
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 76,
                         "startColumn": 4,
@@ -3184,7 +3184,7 @@
                     "endOffset": 17446
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 77,
                         "startColumn": 4,
@@ -3203,7 +3203,7 @@
                     "endOffset": 17524
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 75,
                         "startColumn": 4,
@@ -3222,7 +3222,7 @@
                     "endOffset": 17583
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 73,
                         "startColumn": 4,
@@ -3241,7 +3241,7 @@
                     "endOffset": 17718
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 78,
                         "startColumn": 4,
@@ -3260,7 +3260,7 @@
                     "endOffset": 17775
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 79,
                         "startColumn": 4,
@@ -3279,7 +3279,7 @@
                     "endOffset": 17912
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 90,
                         "startColumn": 4,
@@ -3298,7 +3298,7 @@
                     "endOffset": 17994
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 74,
                         "startColumn": 4,
@@ -3317,7 +3317,7 @@
                     "endOffset": 18070
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 85,
                         "startColumn": 4,
@@ -3336,7 +3336,7 @@
                     "endOffset": 18127
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 66,
                         "startColumn": 4,
@@ -3355,7 +3355,7 @@
                     "endOffset": 18272
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 70,
                         "startColumn": 4,
@@ -3374,7 +3374,7 @@
                     "endOffset": 18333
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 68,
                         "startColumn": 4,
@@ -3393,7 +3393,7 @@
                     "endOffset": 18394
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 67,
                         "startColumn": 4,
@@ -3412,7 +3412,7 @@
                     "endOffset": 18494
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 65,
                         "startColumn": 4,
@@ -3431,7 +3431,7 @@
                     "endOffset": 18586
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 64,
                         "startColumn": 4,
@@ -3450,7 +3450,7 @@
                     "endOffset": 18664
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 62,
                         "startColumn": 4,
@@ -3469,7 +3469,7 @@
                     "endOffset": 18723
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 60,
                         "startColumn": 4,
@@ -3488,7 +3488,7 @@
                     "endOffset": 18858
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 61,
                         "startColumn": 4,
@@ -3507,7 +3507,7 @@
                     "endOffset": 18915
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 63,
                         "startColumn": 4,
@@ -3526,7 +3526,7 @@
                     "endOffset": 19046
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 69,
                         "startColumn": 4,
@@ -3545,7 +3545,7 @@
                     "endOffset": 19104
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -3564,7 +3564,7 @@
                     "endOffset": 19160
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -3583,7 +3583,7 @@
                     "endOffset": 19220
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -3602,7 +3602,7 @@
                     "endOffset": 19280
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -3621,7 +3621,7 @@
                     "endOffset": 19340
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -3640,7 +3640,7 @@
                     "endOffset": 19376
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/strings.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -3660,7 +3660,7 @@
                     "endOffset": 19669
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/styles.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -3681,7 +3681,7 @@
                     "endOffset": 19829
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/src/main/res/values/styles.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -3702,7 +3702,7 @@
                     "endOffset": 20029
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 567,
                         "startColumn": 4,
@@ -3723,7 +3723,7 @@
                     "endOffset": 20312
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 571,
                         "startColumn": 4,
@@ -3744,7 +3744,7 @@
                     "endOffset": 20520
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 577,
                         "startColumn": 4,
@@ -3765,7 +3765,7 @@
                     "endOffset": 20651
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 582,
                         "startColumn": 4,
@@ -3786,7 +3786,7 @@
                     "endOffset": 20913
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 586,
                         "startColumn": 4,
@@ -3807,7 +3807,7 @@
                     "endOffset": 21175
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 591,
                         "startColumn": 4,
@@ -3828,7 +3828,7 @@
                     "endOffset": 21453
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 596,
                         "startColumn": 4,
@@ -3849,7 +3849,7 @@
                     "endOffset": 21667
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 601,
                         "startColumn": 4,
@@ -3870,7 +3870,7 @@
                     "endOffset": 21804
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 606,
                         "startColumn": 4,
@@ -3890,7 +3890,7 @@
                     "endOffset": 21945
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 610,
                         "startColumn": 4,
@@ -3909,7 +3909,7 @@
                     "endOffset": 22086
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 612,
                         "startColumn": 4,
@@ -3928,7 +3928,7 @@
                     "endOffset": 22226
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 616,
                         "startColumn": 4,
@@ -3947,7 +3947,7 @@
                     "endOffset": 22360
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 618,
                         "startColumn": 4,
@@ -3966,7 +3966,7 @@
                     "endOffset": 22502
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 620,
                         "startColumn": 4,
@@ -3985,7 +3985,7 @@
                     "endOffset": 22644
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 622,
                         "startColumn": 4,
@@ -4004,7 +4004,7 @@
                     "endOffset": 22772
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 624,
                         "startColumn": 4,
@@ -4023,7 +4023,7 @@
                     "endOffset": 22894
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 626,
                         "startColumn": 4,
@@ -4042,7 +4042,7 @@
                     "endOffset": 23022
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 628,
                         "startColumn": 4,
@@ -4061,7 +4061,7 @@
                     "endOffset": 23158
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 630,
                         "startColumn": 4,
@@ -4080,7 +4080,7 @@
                     "endOffset": 23310
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 632,
                         "startColumn": 4,
@@ -4099,7 +4099,7 @@
                     "endOffset": 23440
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 634,
                         "startColumn": 4,
@@ -4118,7 +4118,7 @@
                     "endOffset": 23586
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 636,
                         "startColumn": 4,
@@ -4137,7 +4137,7 @@
                     "endOffset": 23724
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 638,
                         "startColumn": 4,
@@ -4156,7 +4156,7 @@
                     "endOffset": 23878
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 640,
                         "startColumn": 4,
@@ -4175,7 +4175,7 @@
                     "endOffset": 24010
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 642,
                         "startColumn": 4,
@@ -4194,7 +4194,7 @@
                     "endOffset": 24158
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 644,
                         "startColumn": 4,
@@ -4214,7 +4214,7 @@
                     "endOffset": 24453
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 648,
                         "startColumn": 4,
@@ -4235,7 +4235,7 @@
                     "endOffset": 24665
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 654,
                         "startColumn": 4,
@@ -4256,7 +4256,7 @@
                     "endOffset": 24893
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 658,
                         "startColumn": 4,
@@ -4277,7 +4277,7 @@
                     "endOffset": 25100
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 662,
                         "startColumn": 4,
@@ -4298,7 +4298,7 @@
                     "endOffset": 25323
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 666,
                         "startColumn": 4,
@@ -4319,7 +4319,7 @@
                     "endOffset": 25529
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 670,
                         "startColumn": 4,
@@ -4340,7 +4340,7 @@
                     "endOffset": 25758
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 674,
                         "startColumn": 4,
@@ -4360,7 +4360,7 @@
                     "endOffset": 25871
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 678,
                         "startColumn": 4,
@@ -4379,7 +4379,7 @@
                     "endOffset": 26000
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 680,
                         "startColumn": 4,
@@ -4399,7 +4399,7 @@
                     "endOffset": 26208
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 682,
                         "startColumn": 4,
@@ -4419,7 +4419,7 @@
                     "endOffset": 26332
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 688,
                         "startColumn": 4,
@@ -4438,7 +4438,7 @@
                     "endOffset": 26462
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 690,
                         "startColumn": 4,
@@ -4457,7 +4457,7 @@
                     "endOffset": 26592
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 692,
                         "startColumn": 4,
@@ -4477,7 +4477,7 @@
                     "endOffset": 26806
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 696,
                         "startColumn": 4,
@@ -4497,7 +4497,7 @@
                     "endOffset": 26940
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 702,
                         "startColumn": 4,
@@ -4517,7 +4517,7 @@
                     "endOffset": 29429
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 706,
                         "startColumn": 4,
@@ -4538,7 +4538,7 @@
                     "endOffset": 29716
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 743,
                         "startColumn": 4,
@@ -4559,7 +4559,7 @@
                     "endOffset": 30007
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 748,
                         "startColumn": 4,
@@ -4579,7 +4579,7 @@
                     "endOffset": 30097
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 755,
                         "startColumn": 4,
@@ -4598,7 +4598,7 @@
                     "endOffset": 30201
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 757,
                         "startColumn": 4,
@@ -4617,7 +4617,7 @@
                     "endOffset": 30299
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 759,
                         "startColumn": 4,
@@ -4637,7 +4637,7 @@
                     "endOffset": 32927
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 761,
                         "startColumn": 4,
@@ -4658,7 +4658,7 @@
                     "endOffset": 35479
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 796,
                         "startColumn": 4,
@@ -4678,7 +4678,7 @@
                     "endOffset": 35589
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 831,
                         "startColumn": 4,
@@ -4697,7 +4697,7 @@
                     "endOffset": 35643
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 835,
                         "startColumn": 4,
@@ -4717,7 +4717,7 @@
                     "endOffset": 39017
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 837,
                         "startColumn": 4,
@@ -4738,7 +4738,7 @@
                     "endOffset": 41432
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 885,
                         "startColumn": 4,
@@ -4758,7 +4758,7 @@
                     "endOffset": 41543
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 920,
                         "startColumn": 4,
@@ -4777,7 +4777,7 @@
                     "endOffset": 41630
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 922,
                         "startColumn": 4,
@@ -4797,7 +4797,7 @@
                     "endOffset": 45133
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 924,
                         "startColumn": 4,
@@ -4818,7 +4818,7 @@
                     "endOffset": 47051
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 974,
                         "startColumn": 4,
@@ -4838,7 +4838,7 @@
                     "endOffset": 47150
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1001,
                         "startColumn": 4,
@@ -4857,7 +4857,7 @@
                     "endOffset": 47216
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1003,
                         "startColumn": 4,
@@ -4876,7 +4876,7 @@
                     "endOffset": 47304
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1007,
                         "startColumn": 4,
@@ -4895,7 +4895,7 @@
                     "endOffset": 47404
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1009,
                         "startColumn": 4,
@@ -4914,7 +4914,7 @@
                     "endOffset": 47506
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1011,
                         "startColumn": 4,
@@ -4933,7 +4933,7 @@
                     "endOffset": 47610
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1013,
                         "startColumn": 4,
@@ -4952,7 +4952,7 @@
                     "endOffset": 47714
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1015,
                         "startColumn": 4,
@@ -4971,7 +4971,7 @@
                     "endOffset": 47808
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1017,
                         "startColumn": 4,
@@ -4990,7 +4990,7 @@
                     "endOffset": 47922
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1019,
                         "startColumn": 4,
@@ -5009,7 +5009,7 @@
                     "endOffset": 48034
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1021,
                         "startColumn": 4,
@@ -5028,7 +5028,7 @@
                     "endOffset": 48124
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1023,
                         "startColumn": 4,
@@ -5047,7 +5047,7 @@
                     "endOffset": 48232
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1025,
                         "startColumn": 4,
@@ -5066,7 +5066,7 @@
                     "endOffset": 48342
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1027,
                         "startColumn": 4,
@@ -5086,7 +5086,7 @@
                     "endOffset": 49495
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1031,
                         "startColumn": 4,
@@ -5107,7 +5107,7 @@
                     "endOffset": 49849
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1047,
                         "startColumn": 4,
@@ -5128,7 +5128,7 @@
                     "endOffset": 50086
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1053,
                         "startColumn": 4,
@@ -5149,7 +5149,7 @@
                     "endOffset": 50560
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1059,
                         "startColumn": 4,
@@ -5170,7 +5170,7 @@
                     "endOffset": 50947
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1069,
                         "startColumn": 4,
@@ -5191,7 +5191,7 @@
                     "endOffset": 51533
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1077,
                         "startColumn": 4,
@@ -5211,7 +5211,7 @@
                     "endOffset": 51642
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1088,
                         "startColumn": 4,
@@ -5231,7 +5231,7 @@
                     "endOffset": 51854
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1090,
                         "startColumn": 4,
@@ -5252,7 +5252,7 @@
                     "endOffset": 52330
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1094,
                         "startColumn": 4,
@@ -5273,7 +5273,7 @@
                     "endOffset": 52704
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1102,
                         "startColumn": 4,
@@ -5294,7 +5294,7 @@
                     "endOffset": 53083
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1110,
                         "startColumn": 4,
@@ -5315,7 +5315,7 @@
                     "endOffset": 53436
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1116,
                         "startColumn": 4,
@@ -5336,7 +5336,7 @@
                     "endOffset": 53896
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1123,
                         "startColumn": 4,
@@ -5357,7 +5357,7 @@
                     "endOffset": 54088
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1131,
                         "startColumn": 4,
@@ -5378,7 +5378,7 @@
                     "endOffset": 54347
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1135,
                         "startColumn": 4,
@@ -5398,7 +5398,7 @@
                     "endOffset": 54453
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1140,
                         "startColumn": 4,
@@ -5418,7 +5418,7 @@
                     "endOffset": 54897
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1142,
                         "startColumn": 4,
@@ -5438,7 +5438,7 @@
                     "endOffset": 55009
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1149,
                         "startColumn": 4,
@@ -5458,7 +5458,7 @@
                     "endOffset": 55708
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1151,
                         "startColumn": 4,
@@ -5478,7 +5478,7 @@
                     "endOffset": 55818
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1165,
                         "startColumn": 4,
@@ -5497,7 +5497,7 @@
                     "endOffset": 55918
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1167,
                         "startColumn": 4,
@@ -5516,7 +5516,7 @@
                     "endOffset": 56030
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1169,
                         "startColumn": 4,
@@ -5535,7 +5535,7 @@
                     "endOffset": 56158
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1171,
                         "startColumn": 4,
@@ -5554,7 +5554,7 @@
                     "endOffset": 56272
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1173,
                         "startColumn": 4,
@@ -5573,7 +5573,7 @@
                     "endOffset": 56402
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1175,
                         "startColumn": 4,
@@ -5592,7 +5592,7 @@
                     "endOffset": 56518
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1177,
                         "startColumn": 4,
@@ -5611,7 +5611,7 @@
                     "endOffset": 56650
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1179,
                         "startColumn": 4,
@@ -5630,7 +5630,7 @@
                     "endOffset": 56766
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1181,
                         "startColumn": 4,
@@ -5649,7 +5649,7 @@
                     "endOffset": 56898
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1183,
                         "startColumn": 4,
@@ -5668,7 +5668,7 @@
                     "endOffset": 57004
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1185,
                         "startColumn": 4,
@@ -5687,7 +5687,7 @@
                     "endOffset": 57130
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1187,
                         "startColumn": 4,
@@ -5706,7 +5706,7 @@
                     "endOffset": 57254
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1189,
                         "startColumn": 4,
@@ -5725,7 +5725,7 @@
                     "endOffset": 57372
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1191,
                         "startColumn": 4,
@@ -5744,7 +5744,7 @@
                     "endOffset": 57492
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1193,
                         "startColumn": 4,
@@ -5763,7 +5763,7 @@
                     "endOffset": 57614
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1195,
                         "startColumn": 4,
@@ -5783,7 +5783,7 @@
                     "endOffset": 58367
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1199,
                         "startColumn": 4,
@@ -5804,7 +5804,7 @@
                     "endOffset": 58736
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1209,
                         "startColumn": 4,
@@ -5825,7 +5825,7 @@
                     "endOffset": 59292
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1215,
                         "startColumn": 4,
@@ -5845,7 +5845,7 @@
                     "endOffset": 59405
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1222,
                         "startColumn": 4,
@@ -5864,7 +5864,7 @@
                     "endOffset": 59532
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1224,
                         "startColumn": 4,
@@ -5883,7 +5883,7 @@
                     "endOffset": 59647
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1226,
                         "startColumn": 4,
@@ -5903,7 +5903,7 @@
                     "endOffset": 59883
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1228,
                         "startColumn": 4,
@@ -5923,7 +5923,7 @@
                     "endOffset": 59998
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1232,
                         "startColumn": 4,
@@ -5942,7 +5942,7 @@
                     "endOffset": 60127
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1234,
                         "startColumn": 4,
@@ -5961,7 +5961,7 @@
                     "endOffset": 60232
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1236,
                         "startColumn": 4,
@@ -5980,7 +5980,7 @@
                     "endOffset": 60353
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1238,
                         "startColumn": 4,
@@ -6000,7 +6000,7 @@
                     "endOffset": 60578
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1240,
                         "startColumn": 4,
@@ -6021,7 +6021,7 @@
                     "endOffset": 60943
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1244,
                         "startColumn": 4,
@@ -6042,7 +6042,7 @@
                     "endOffset": 61160
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1249,
                         "startColumn": 4,
@@ -6063,7 +6063,7 @@
                     "endOffset": 61547
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1253,
                         "startColumn": 4,
@@ -6083,7 +6083,7 @@
                     "endOffset": 61668
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1259,
                         "startColumn": 4,
@@ -6103,7 +6103,7 @@
                     "endOffset": 62136
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1261,
                         "startColumn": 4,
@@ -6124,7 +6124,7 @@
                     "endOffset": 62335
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1269,
                         "startColumn": 4,
@@ -6144,7 +6144,7 @@
                     "endOffset": 62453
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1273,
                         "startColumn": 4,
@@ -6164,7 +6164,7 @@
                     "endOffset": 62832
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1275,
                         "startColumn": 4,
@@ -6184,7 +6184,7 @@
                     "endOffset": 62954
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1283,
                         "startColumn": 4,
@@ -6203,7 +6203,7 @@
                     "endOffset": 63066
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1285,
                         "startColumn": 4,
@@ -6222,7 +6222,7 @@
                     "endOffset": 63182
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1287,
                         "startColumn": 4,
@@ -6241,7 +6241,7 @@
                     "endOffset": 63282
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1289,
                         "startColumn": 4,
@@ -6260,7 +6260,7 @@
                     "endOffset": 63397
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1291,
                         "startColumn": 4,
@@ -6279,7 +6279,7 @@
                     "endOffset": 63497
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1293,
                         "startColumn": 4,
@@ -6298,7 +6298,7 @@
                     "endOffset": 63601
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1295,
                         "startColumn": 4,
@@ -6317,7 +6317,7 @@
                     "endOffset": 63697
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1297,
                         "startColumn": 4,
@@ -6336,7 +6336,7 @@
                     "endOffset": 63785
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1299,
                         "startColumn": 4,
@@ -6355,7 +6355,7 @@
                     "endOffset": 63877
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1301,
                         "startColumn": 4,
@@ -6374,7 +6374,7 @@
                     "endOffset": 63991
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1303,
                         "startColumn": 4,
@@ -6393,7 +6393,7 @@
                     "endOffset": 64094
                 },
                 "from": {
-                    "file": "/home/just/StudioProjects/PBLHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
+                    "file": "/home/dados/StudioProjects/pblhub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml",
                     "position": {
                         "startLine": 1305,
                         "startColumn": 4,

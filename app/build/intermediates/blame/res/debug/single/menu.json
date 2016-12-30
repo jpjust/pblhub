@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/home/just/StudioProjects/PBLHub/app/build/intermediates/res/merged/debug/menu/global.xml",
-        "source": "/home/just/StudioProjects/PBLHub/app/src/main/res/menu/global.xml"
+        "merged": "/home/dados/StudioProjects/pblhub/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/dados/StudioProjects/pblhub/app/src/main/res/menu/main.xml"
     },
     {
-        "merged": "/home/just/StudioProjects/PBLHub/app/build/intermediates/res/merged/debug/menu/main.xml",
-        "source": "/home/just/StudioProjects/PBLHub/app/src/main/res/menu/main.xml"
+        "merged": "/home/dados/StudioProjects/pblhub/app/build/intermediates/res/merged/debug/menu/global.xml",
+        "source": "/home/dados/StudioProjects/pblhub/app/src/main/res/menu/global.xml"
     }
 ]
