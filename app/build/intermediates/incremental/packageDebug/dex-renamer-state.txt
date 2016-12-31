@@ -1,4 +1,4 @@
-#Fri Dec 30 11:29:45 BRT 2016
+#Fri Dec 30 21:43:46 BRT 2016
 base.0=/home/dados/StudioProjects/pblhub/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7d151f961068116af322aace42319ecd0d183961
 renamed.1=classes.dex
 renamed.0=classes2.dex
